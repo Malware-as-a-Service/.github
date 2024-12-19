@@ -27,5 +27,5 @@ Malware as a Service is becoming more and more used in day-to-day criminal activ
 However, finding content on how they work and are structured is not an easy task.\
 This is the reason for the creation of this project.
 
-[as a service]: https://en.wikipedia.org/wiki/As_a_service/
+[as a service]: https://en.wikipedia.org/wiki/As_a_service
 [maas]: https://github.com/Malware-as-a-Service/
