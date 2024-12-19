@@ -4,6 +4,28 @@ SPDX-FileCopyrightText: 2024 The Malware as a Service development team
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
+<div align="center">
+<h3 align="center">.github</h3>
+
+<p align="center">
+    Github-specific files for the organization
+    <br />
+    <br />
+    <a href="https://github.com/">
+      <!-- markdownlint-disable line-length -->
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="Github badge" />
+    </a>
+    <a href="./LICENSES/GPL-3.0-or-later.txt">
+      <!-- markdownlint-disable line-length -->
+      <img src="https://img.shields.io/badge/License-GPL%203.0%20or%20later-green.svg?style=for-the-badge" alt="GPL 3.0 or later badge" />
+    </a>
+    <a href="https://commonmark.org/">
+      <!-- markdownlint-disable line-length -->
+      <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown badge" />
+    </a>
+  </p>
+</div>
+
 ## :clipboard: Table of content
 
 - [:clipboard: Table of content](#clipboard-table-of-content)
