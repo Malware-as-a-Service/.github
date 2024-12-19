@@ -23,6 +23,10 @@ SPDX-License-Identifier: GPL-3.0-or-later
       <!-- markdownlint-disable line-length -->
       <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown badge" />
     </a>
+    <a href="https://reuse.software/">
+      <!-- markdownlint-disable line-length -->
+      <img src="https://img.shields.io/reuse/compliance/github.com%2FMalware-as-a-Service%2F.github?style=for-the-badge" alt="Reuse badge" />
+    </a>
   </p>
 </div>
 
