@@ -6,7 +6,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 <div align="center">
   <a href="https://github.com/Malware-as-a-Service/">
-    <!-- markdownlint-disable line-length -->
+    <!-- markdownlint-disable-next-line line-length -->
     <img src="https://raw.githubusercontent.com/Malware-as-a-Service/Malware-as-a-Service/refs/heads/main/assets/images/logo.svg" alt="Logo"/>
   </a>
 
