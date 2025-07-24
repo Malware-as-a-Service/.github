@@ -10,9 +10,9 @@ SPDX-License-Identifier: GPL-3.0-or-later
     <img src="https://raw.githubusercontent.com/Malware-as-a-Service/.github/refs/heads/main/assets/images/logo.svg" alt="Logo"/>
   </a>
 
-<h3 align="center">.github</h3>
+  <h3 align="center">.github</h3>
 
-<p align="center">
+  <p align="center">
     Github-specific files for the organization
     <br />
     <br />

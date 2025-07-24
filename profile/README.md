@@ -10,7 +10,7 @@ SPDX-License-Identifier: GPL-3.0-or-later
     <img src="../assets/images/logo.svg" alt="Logo" />
   </a>
 
-<h3 align="center">Malware as a Service</h3>
+  <h3 align="center">Malware as a Service</h3>
 </div>
 
 ## :warning: Disclaimer
